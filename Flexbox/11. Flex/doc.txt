@@ -1,0 +1,20 @@
+<flex> property is a combination of 3 properties: <flex-grow>, <flex-shrink> & <flex-basis>.
+
+flex: 0 1 auto; means the flex item will not grow, shrink whenever necessary & has a width of auto.
+
+Types of possible combination of flex:
+
+a. One value, unitless number: <flex-grow>
+flex: 2;
+
+b. One value, width/height: <flex-basis>
+flex: 100px;
+
+c. Two values: <flex-grow> <flex-basis>
+flex: 1 50px;
+
+d. Two values: <flex-grow> <flex-shrink>
+flex: 2 2;
+
+e. Three values: <flex-grow> <flex-shrink> <flex-basis>
+flex: 2 2 2rem;

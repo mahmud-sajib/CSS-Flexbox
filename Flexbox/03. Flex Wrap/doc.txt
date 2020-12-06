@@ -1,0 +1,5 @@
+1. flex-wrap: nowrap; makes the flex items to overflow if they don't fit the flex container.
+
+2. flex-wrap: wrap; makes the flex items to move to BELOW row if they don't fit the flex container.
+
+3. flex-wrap: wrap-reverse; makes the flex items to move to ABOVE row if they don't fit the flex container.

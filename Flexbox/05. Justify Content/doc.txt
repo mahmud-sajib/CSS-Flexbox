@@ -1,0 +1,14 @@
+1. justify-content: flex-start; aligns the flex items to flow from LEFT to RIGHT in the flex container.
+
+2. justify-content: flex-end; aligns the flex items to flow from RIGHT to LEFT in the flex container.
+
+3. justify-content: center; center align flex items in the flex container.
+
+4. justify-content: space-between; makes the first flex item to start from the LEFT edge and last flex item to end at the RIGHT edge of the flex container and provide equal space between all remaining flex items.
+
+5. justify-content: space-around; makes all flex items to share equal space between them except for the first & last flex items. They take half the space at Start and End.
+
+6. justify-content: space-evenly; makes all flex items to share equal space everywhere in the flex container.
+
+Tip #1: We can achieve vertically centered items with <justify-content> and <flex-direction> property. 
+

@@ -1,0 +1,3 @@
+1. display: flex; makes the flex containers to display block.
+
+2. display: inline-flex; makes the flex containers to display inline-block.

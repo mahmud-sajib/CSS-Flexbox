@@ -1,0 +1,12 @@
+<align-self> has similar properties to <align-items> and works from TOP to BOTTOM.
+
+1. align-self: stretch; makes the individual flex item to flow from TOP & stretch down to BOTTOM of the flex container.
+
+2. align-self: flex-start; makes the individual flex item to start at the TOP edge of flex container.
+
+3. align-self: flex-end; makes the individual flex item to start at the BOTTOM edge of flex container.
+
+4. align-self: center; Vertically center align the individual flex item in the flex container.
+
+N.B. When <align-self> is not specified for an individual item it takes the default value of <align-items> from the flex container.
+

@@ -1,0 +1,7 @@
+1. flex-direction: row; makes the flex items align from LEFT to RIGHT.
+
+2. flex-direction: row-reverse; makes the items align from RIGHT to LEFT (in a reverse order).
+
+3. flex-direction: column; makes the flex items stacked from TOP to BOTTOM.
+
+4. flex-direction: column-reverse; makes the flex items stacked from TOP to BOTTOM (in a reverse order).

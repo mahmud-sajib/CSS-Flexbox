@@ -1,0 +1,1 @@
+1. flex-shrink: 1; when set to individual item that item shrinks (while keeping the other items intact) when the browser width decreases.

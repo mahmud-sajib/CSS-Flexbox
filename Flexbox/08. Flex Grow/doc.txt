@@ -1,0 +1,3 @@
+1. flex-grow: 1; when set to individual item that item takes all the remaining white space of the flex container.
+
+2. flex-grow: 1; when set to flex items they share all the remaining white space of the flex container evenly.

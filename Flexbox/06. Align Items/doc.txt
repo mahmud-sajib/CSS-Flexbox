@@ -1,0 +1,12 @@
+<align-items> is the opposite of <justify-content>. <justify-content> works from LEFT to RIGHT whereas <align-items> works from TOP to BOTTOM.
+
+1. align-items: stretch; aligns the flex items to flow from TOP & stretch down to BOTTOM of the flex container.
+
+2. align-items: flex-start; aligns the flex items to flow from TOP to BOTTOM in the flex container.
+
+3. align-items: flex-end; aligns the flex items to flow from BOTTOM to TOP in the flex container.
+
+4. align-items: center; Vertically center align flex items in the flex container.
+
+N.B. This can be confusing, but <align-content> determines the spacing between lines, while <align-items> determines how the items as a whole are aligned within the container. When there is only one line, <align-content> has no effect.
+
